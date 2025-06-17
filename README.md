@@ -139,4 +139,6 @@ This project is licensed under the [MIT License](/LICENSE). You are free to use,
 
 
 
-Update:  16.06.2025 url is now operational and accessible
+
+
+Update:  06/17/2025 Thumbnail URLs
